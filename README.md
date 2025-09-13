@@ -1,2 +1,2 @@
-# Tute-Dude-ASSIGNMENT-1-Basic-Python-Concepts
+# Tute_Dude-ASSIGNMENT-1-Basic-Python-Concepts
 ASSIGNMENT 1: Basic Python Concepts
